@@ -10,7 +10,7 @@ body {
 /*---------- Header ----------*/
 .header-banner-section {
     height: 100vh;
-    background-image: url("cafe.jpg");
+    background-image: url("image/general/cafe.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -217,7 +217,7 @@ nav ul li a:hover {
 #service.service-area {
     padding: 100px 0;
     position: relative;
-    background: #111 url('service.jpg') center/cover no-repeat;
+    background: #111 url('image/general/service.jpg') center/cover no-repeat;
     overflow: hidden;
 }
 
@@ -388,7 +388,7 @@ nav ul li a:hover {
 .time-area {
     border-top: 50px solid white;
     position: relative;
-    background: url('cafe-open.jpg') center/cover no-repeat;
+    background: url('image/general/cafe-open.jpg') center/cover no-repeat;
     background-position: center;
     min-height: 50vh;
     display: flex;
@@ -536,7 +536,7 @@ nav ul li a:hover {
 /*---------- Blog Area ----------*/
 .blog-area {
     padding: 100px 20px;
-    background: url('blog0.jpg') center/cover no-repeat;
+    background: url('image/blog/blog0.jpg') center/cover no-repeat;
     color: white;
 }
 
@@ -650,23 +650,23 @@ nav ul li a:hover {
 }
 
 .blog-post.post-1 {
-    background-image: url('blog1.jpg');
+    background-image: url('image/blog/blog1.jpg');
 }
 
 .blog-post.post-2 {
-    background-image: url('blog2.jpg');
+    background-image: url('image/blog/blog2.jpg');
 }
 
 .blog-post.post-3 {
-    background-image: url('blog3.jpg');
+    background-image: url('image/blog/blog3.jpg');
 }
 
 .blog-post.post-4 {
-    background-image: url('blog4.avif');
+    background-image: url('image/blog/blog4.avif');
 }
 
 .blog-post.post-5 {
-    background-image: url('blog5.webp');
+    background-image: url('image/blog/blog5.webp');
 }
 
 
@@ -764,7 +764,7 @@ nav ul li a:hover {
 /*---------- Chefs Area ----------*/
 .chefs-area {
     position: relative;
-    background: url('kitchen.jpg') center/cover no-repeat;
+    background: url('image/general/kitchen.jpg') center/cover no-repeat;
     min-height: 80vh;
     padding: 120px 20px 100px;
     color: white;
@@ -1033,7 +1033,7 @@ footer::before {
 }
 
 .footer-contact-info {
-    background: url('footer.jpg')center/cover no-repeat;
+    background: url('image/general/footer.jpg')center/cover no-repeat;
     position: relative;
     z-index: 2;
     display: flex;
